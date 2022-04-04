@@ -1,0 +1,25 @@
+form {
+  background-color: #f8f81e;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.wrapper {
+  width: 50%;
+  padding: 2%;
+  margin: auto;
+}
+
+h1 {
+  color: #2814c4;
+  font-family: 'Rubik Bubbles', cursive;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+
+h5, .opis {
+  color: black;
+}
+/*# sourceMappingURL=style.css.map */

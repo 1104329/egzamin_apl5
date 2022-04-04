@@ -1,0 +1,25 @@
+form {
+    background-color: rgb(248, 248, 30);
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.wrapper {
+    width: 50%;
+    padding: 2%;
+    margin: auto; 
+}
+
+h1 {
+    color: rgb(40, 20, 196);
+    font-family: 'Rubik Bubbles', cursive;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+
+
+h5, .opis {
+    color: black;
+}
